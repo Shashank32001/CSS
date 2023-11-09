@@ -1,0 +1,1 @@
+CSS=(cascading style sheet): it is a language that is used to describe the style of a document.

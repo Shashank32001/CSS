@@ -1,0 +1,15 @@
+/* p1.html */
+h3{
+    color:aqua ;
+}
+/* p2.html */
+p{
+    color: rgb(231, 199, 199);
+}
+button{
+    color: green;
+    background-color: peru;
+}
+body {
+    background-color: #610ce0;
+}
