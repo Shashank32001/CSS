@@ -4,7 +4,7 @@ h3{
 }
 /* p2.html */
 p{
-    color: rgb(231, 199, 199);
+    color: rgba(231, 199, 199,0.5);
 }
 button{
     color: green;
